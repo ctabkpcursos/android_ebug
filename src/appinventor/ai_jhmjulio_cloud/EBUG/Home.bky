@@ -1,0 +1,50 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="N%FXJ7bL63Vv^]ysR0g0" x="-529" y="27">
+    <mutation component_type="Form" is_generic="false" instance_name="Home" event_name="Initialize"></mutation>
+    <field name="COMPONENT_SELECTOR">Home</field>
+    <statement name="DO">
+      <block type="component_method" id="d(rd$u~mB.`8m^Dlnlj`">
+        <mutation component_type="Notifier" method_name="ShowMessageDialog" is_generic="false" instance_name="notScan"></mutation>
+        <field name="COMPONENT_SELECTOR">notScan</field>
+        <value name="ARG0">
+          <block type="text_join" id="Uoc0ZbMNkaoit6gnE/Qp">
+            <mutation items="3"></mutation>
+            <value name="ADD0">
+              <block type="text" id="-_/H9chx:MJl*riXq=zO">
+                <field name="TEXT">Olá, fique à vontade para enviar seus "e-bugs"!</field>
+              </block>
+            </value>
+            <value name="ADD1">
+              <block type="text" id="gQ0~;[RIR6Pwcd:QaUa{">
+                <field name="TEXT">\n</field>
+              </block>
+            </value>
+            <value name="ADD2">
+              <block type="text" id="UknrAE.lghF+oOT}ILP}">
+                <field name="TEXT">Pressione OK para fechar esta tela.</field>
+              </block>
+            </value>
+          </block>
+        </value>
+        <value name="ARG1">
+          <block type="text" id="2n*kks)4N%{H]uDRm)l?">
+            <field name="TEXT">E-BUG</field>
+          </block>
+        </value>
+        <value name="ARG2">
+          <block type="text" id="cjL)Ta1ciyLBhvAj}F{S">
+            <field name="TEXT">OK</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="5+TS@z-364U-$gmx*8Yg" x="-494" y="286">
+    <mutation component_type="Button" is_generic="false" instance_name="btnOFF" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">btnOFF</field>
+    <statement name="DO">
+      <block type="controls_closeApplication" id="z#{%hPRTz?^Xt|F.!fkM"></block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="208" language-version="33"></yacodeblocks>
+</xml>

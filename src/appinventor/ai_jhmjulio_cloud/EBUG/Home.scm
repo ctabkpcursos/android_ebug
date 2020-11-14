@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"208","Source":"Form","Properties":{"$Name":"Home","$Type":"Form","$Version":"27","AppName":"IOT_JulioCTA","Title":"Home","TitleVisible":"False","Uuid":"0","$Components":[{"$Name":"HorizontalArrangement1","$Type":"HorizontalArrangement","$Version":"3","Width":"-2","Uuid":"-348449174","$Components":[{"$Name":"lblEspac","$Type":"Label","$Version":"5","FontSize":"20","Width":"-2","Text":"   ","Uuid":"1553699398"},{"$Name":"btnOFF","$Type":"Button","$Version":"6","FontSize":"15","Height":"-1008","Width":"-1010","Image":"BTN_fechar.png","Text":"     ","TextAlignment":"2","TextColor":"&HFF000000","Uuid":"-1896346576"}]},{"$Name":"WebViewer1","$Type":"WebViewer","$Version":"10","HomeUrl":"https:\/\/sites.google.com\/view\/ehbug","IgnoreSslErrors":"True","Uuid":"-2079663919"},{"$Name":"notScan","$Type":"Notifier","$Version":"6","Uuid":"2147196119"}],"Sizing":"Fixed","ShowListsAsJson":"False"}}
+|#

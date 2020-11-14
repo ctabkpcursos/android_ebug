@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"208","Source":"Form","Properties":{"$Name":"Screen1","$Type":"Form","$Version":"27","AboutScreen":"v7: update anual","AlignHorizontal":"3","AppName":"E-BUG","Icon":"logo_ebug.png","ShowListsAsJson":"False","Sizing":"Fixed","Title":"E-BUG","Uuid":"0","VersionCode":"7","VersionName":"7","$Components":[{"$Name":"picLogoSF","$Type":"Image","$Version":"4","Height":"-1025","Width":"-1025","Picture":"logo_ebug.png","Uuid":"-169692859"},{"$Name":"Label1","$Type":"Label","$Version":"5","FontBold":"True","FontItalic":"True","FontSize":"10","Text":"v 7.0","TextColor":"&HFF888888","Uuid":"-1828760273"},{"$Name":"btnLogin","$Type":"Button","$Version":"6","FontBold":"True","FontSize":"20","Width":"-2","Text":"Entrar","Uuid":"2086413301"},{"$Name":"TinyDB1","$Type":"TinyDB","$Version":"2","Uuid":"2113903030"}]}}
+|#
